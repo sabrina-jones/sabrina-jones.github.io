@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: sabrina.jones87@gmail.com
 copyright_name: sabrina-jones
 description: > # this means to ignore newlines until "baseurl:"
-  Test
+  This is only a test
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sabrina-jones
